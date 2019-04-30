@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://60.16.7.30:8890/comm/downSgIos</string>
+<string>http://60.16.7.30:8881/comm/downSgIos</string>
 </dict>
 <dict>
 <key>kind</key>
