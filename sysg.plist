@@ -33,7 +33,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.ProhibitionOfOpium</string>
+<string>com.skycomm.StaffProjectForSY</string>
 <key>bundle-version</key>
 <string>1.0.0</string>
 <key>kind</key>
@@ -41,7 +41,7 @@
 <key>subtitle</key>
 <string></string>
 <key>title</key>
-<string>沈阳8.31</string>
+<string>阳光社工</string>
 </dict>
 </dict>
 </array>
