@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://192.168.8.222:7780/files/downios1</string>
+<string>http://192.168.8.222:7780/download_ios.html</string>
 </dict>
 <dict>
 <key>kind</key>
