@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://202.103.219.149:1101/comm/readFile?path=/uploadfiles/socket_tutorial.ipa</string>
+<string>http://192.168.8.222:7780/files/downios1</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,15 +33,15 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.skycomm.pcloud</string>
+<string>com.fishhusocket</string>
 <key>bundle-version</key>
-<string>1.0.0</string>
+<string>1.2.1</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
 <string></string>
 <key>title</key>
-<string>被盗抢核查</string>
+<string>点验</string>
 </dict>
 </dict>
 </array>
